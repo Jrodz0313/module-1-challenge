@@ -1,2 +1,2 @@
-# refractor-html-css
+# refactor-html-css
 HTML/CSS/Git Challenge: Code Refractor 
