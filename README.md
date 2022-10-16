@@ -21,7 +21,7 @@ For this challenge (*HTML/CSS/Git Challenge: Code Refractor*), students were ins
 - WHEN I view the title element
 - THEN I find a concise, descriptive title
 
-## Installatoin
+## Installation
 N/A
 
 ## Usage
